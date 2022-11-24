@@ -1,5 +1,5 @@
 <h1 title="Сейчас – лучшее время начать!" style="text-align:center;margin-top:30px">
-<a style="background:linear-gradient(45deg,violet,blue);border-radius:45px;color:yellow;text-shadow:0 0 20px darkblue;padding:3px 35px 8px" href="">Start coding with Geek Brains</a>
+<a style="background:linear-gradient(45deg,violet,blue);border-radius:45px;color:yellow;text-shadow:0 0 20px darkblue;padding:3px 35px 8px" href="https://go.redav.online/4c49c4086b71d0b0">Start coding with Geek Brains</a>
 </h1>
 
 ## Краткое руководство по MarkDown
