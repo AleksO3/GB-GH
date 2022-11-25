@@ -139,6 +139,6 @@
 <br>
 
 ## А теперь просто выведем картинку, у которой нет ссылки.  
-## Для этого укажем <b style="color:lawngreen"> image src="путь к картинке"</b> в скобках <>
+# Для этого укажем <b style="color:lawngreen"> image src="путь к картинке"</b> в скобках <>
 <br>
 <image src="GB.png" alt="Geek Brains">
