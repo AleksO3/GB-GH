@@ -12,7 +12,7 @@
 ## * Кликай кнопку сверху и ПОЕХАЛИ!
 
 
-## Краткое руководство по MarkDown
+## Краткая инструкция по Mark Down
 <div style="background:linear-gradient(45deg,violet,blue,black);height:1px">&nbsp;</div>
 <br>
 
