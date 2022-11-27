@@ -156,6 +156,7 @@
 <br>
 <image src="GB.png" alt="Geek Brains">
 
-
-
-GIT PULL    ПОЛУЧЕНИЕ ИЗМЕНЕНИЙ И СЛИЯНИЕ С ЛОКАЛЬНОЙ ВЕРСИЕЙ
+<br><br><br>
+# <nav style="text-align:center">Команды для работы с Git Hub</nav>
+1. GIT PULL  -   ПОЛУЧЕНИЕ ИЗМЕНЕНИЙ И СЛИЯНИЕ С ЛОКАЛЬНОЙ ВЕРСИЕЙ
+2. 
